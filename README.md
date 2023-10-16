@@ -1,6 +1,6 @@
-# IDS 706 Mini Project 6
+# IDS 706 Mini Project 7
 
-This repository is for IDS706 mini project week 6. 
+This repository is for IDS706 mini project week 7. 
 
 ## Purpose 
     This repository is for building an ETL-Query pipeline. 
