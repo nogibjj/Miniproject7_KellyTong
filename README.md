@@ -5,8 +5,12 @@ This repository is for IDS706 mini project week 7.
 ## Purpose 
     This repository is for building an ETL-Query pipeline. 
     Github actions such as extract, transform and load, and query are included. 
-    A local csv file is extracted from a url and then cleaned and loaded into a .db file. 
-    SQLlite is used to query it. 
+    A local csv file is extracted from a url and then cleaned and loaded into a .db file.
+    In this case, the two datasets (csv files) are extracted into women_stem.db and 
+    all_ages.db which store the information about major and employment. 
+    A Cloud Database (MySQL) is hosted in Azure and connected to this Github repository 
+    through secret variables access_tokens, host_name and HTTP_path. 
+    Setup tools are used to package the Python script. 
     
 ## Important Things included are:
 - ``.devcontainer`` includes a Dockerfile and devcontainer.json.
