@@ -34,4 +34,6 @@ jobs:
         run: make generate_and_push
       - name: deploy
         run: make deploy
+      - name: setup_package
+        run: make setup_package
       
