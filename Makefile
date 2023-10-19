@@ -44,3 +44,6 @@ transform_load:
 
 query:
 	python main.py general_query "SELECT Major, SUM(Total) as SumTotal, SUM(Women) as SumWomen FROM women_stemDB GROUP BY Major ORDER BY SumTotal DESC LIMIT 10"
+
+setup_package: 
+	python setup.py develop --user
