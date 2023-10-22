@@ -30,6 +30,8 @@ This repository is for IDS706 mini project week 7.
 
 - ``test_main.py`` is a test file for main.py
 
+- ``setup.py`` setup the local packages for python, specify the dependencies required in the package. This executes the ETL streamline commands which can be called by a Makefile commnd. 
+
 - ``mylib`` includes ``extract.py`` ``transform_load.py`` and ``query.py`` which are used to extract
   a csv from an url, clean it and return a db file.
 
@@ -60,6 +62,9 @@ The building process starts with installing the packages.
 **Make install** calls the command pip install --upgrade pip &&\pip install -r requirements.txt
 
 <img width="820" alt="截屏2023-10-02 23 40 02" src="https://github.com/nogibjj/MiniProject5_KellyTong/assets/142815940/ba733b30-5da5-4f44-b2c1-237813b0597c">
+
+`make setup_package`
+**Make **
 
 `make extract`
 
