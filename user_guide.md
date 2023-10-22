@@ -26,7 +26,7 @@ seperately in codespace. It also enables flexibility in performing these in sing
 
 `Packaging in setup.py`
 * Create a python file named setup.py
-* Package all the python scripts into the package "ETLKelly"
+* Package all the python scripts into the package "ETLKellyTong"
 
 #### Installation
 * Clone repository using "git clone" in order to access the repository locally
