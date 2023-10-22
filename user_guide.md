@@ -36,4 +36,8 @@ seperately in codespace. It also enables flexibility in performing these in sing
 #### Functions
 `Extract`
 
+`Transform_load`
+
+`Query`
+
 #### Data communication
