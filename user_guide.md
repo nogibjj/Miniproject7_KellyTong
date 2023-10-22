@@ -50,4 +50,5 @@ The data is currently set up to communicate with Azure Databricks database.
 * Make sure all secrets are saved correctly in the settings
 * Make sure all dependencies are installed (double check the requirement.txt file for this) 
 * Make sure Azure Databricks Database has been started and is running
+* Make sure to git pull before git push again
 
