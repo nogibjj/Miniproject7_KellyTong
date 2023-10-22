@@ -36,7 +36,7 @@ This repository is for IDS706 mini project week 7.
 ## Github actions
 Status badges for CI.yml
 `CI.yml`
-[![CI](https://github.com/nogibjj/MiniProject5_KellyTong/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/MiniProject5_KellyTong/actions/workflows/CI.yml)
+[![CI](https://github.com/nogibjj/Miniproject7_KellyTong/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/Miniproject7_KellyTong/actions/workflows/CI.yml)
 
 ## Results
 By running command: python main.py
