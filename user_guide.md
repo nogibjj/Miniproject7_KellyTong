@@ -35,9 +35,19 @@ seperately in codespace. It also enables flexibility in performing these in sing
 
 #### Functions
 `Extract`
+* Extract data from url to csv files and pushed automatically to the repository
 
 `Transform_load`
+* Transform data and load it into database
 
 `Query`
+* Perform general and complex query
 
 #### Data communication
+The data is currently set up to communicate with Azure Databricks database.
+
+#### Troubleshooting and Debuging
+* Make sure all secrets are saved correctly in the settings
+* Make sure all dependencies are installed (double check the requirement.txt file for this) 
+* Make sure Azure Databricks Database has been started and is running
+
