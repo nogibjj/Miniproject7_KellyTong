@@ -66,6 +66,8 @@ The building process starts with installing the packages.
 `make setup_package`
 **Make setup_package** calls the command python setup.py develop --user
 
+<img width="604" alt="setup_package" src="https://github.com/nogibjj/Miniproject7_KellyTong/assets/142815940/85a0d2d7-36d5-4525-87f8-c9f72002a0eb">
+
 `make extract`
 
 **make extract**
