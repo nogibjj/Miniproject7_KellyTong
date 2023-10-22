@@ -64,6 +64,7 @@ The building process starts with installing the packages.
 <img width="820" alt="截屏2023-10-02 23 40 02" src="https://github.com/nogibjj/MiniProject5_KellyTong/assets/142815940/ba733b30-5da5-4f44-b2c1-237813b0597c">
 
 `make setup_package`
+
 **Make setup_package** calls the command python setup.py develop --user
 
 <img width="604" alt="setup_package" src="https://github.com/nogibjj/Miniproject7_KellyTong/assets/142815940/85a0d2d7-36d5-4525-87f8-c9f72002a0eb">
