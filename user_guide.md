@@ -32,6 +32,8 @@ seperately in codespace. It also enables flexibility in performing these in sing
 * Clone repository using "git clone" in order to access the repository locally
 * Requirements.txt contains all the packages required for the repository
 * Install packages by pip install setup.py
+
 #### Functions
+`Extract`
 
 #### Data communication
