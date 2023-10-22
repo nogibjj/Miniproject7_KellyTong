@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "black==22.3.0",
-        "click==8.1.3", 
+        "click==8.1.3",
         "pytest==7.1.3",
         "pytest-cov==4.0.0",
         "requests==2.26.0",
